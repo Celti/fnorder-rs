@@ -1,0 +1,11 @@
+[package]
+name = "fnorder"
+version = "1.0.0"
+authors = ["Patrick Burroughs (Celti) <celti@celti.name>"]
+description = "Totally non-randomly generated messages from the Illuminati."
+homepage = "http://www.sjgames.com/apps/fnorder/"
+repository = "https://github.com/Celti/fnorder-rs"
+
+[dependencies]
+rand = "0.3"
+error-chain = "0.7"
